@@ -71,5 +71,3 @@ INSERT INTO CountriesByYear (CountryId, YearId, [Population], [TFR]) VALUES
 (18, 2019, 11777315, 2.72),
 (18, 2020, 11936162, 2.68),
 (18, 2021, 12079472, 2.65);
-
-SELECT * FROM Countries
