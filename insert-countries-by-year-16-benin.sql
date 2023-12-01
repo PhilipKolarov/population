@@ -1,5 +1,5 @@
 INSERT INTO CountriesByYear (CountryId, YearId, [Population], [TFR]) VALUES
-(16, 1951, 2264452, 5.75)
+(16, 1950, 2264452, 5.75)
 (16, 1951, 2280678, 5.78),
 (16, 1952, 2297832, 5.83),
 (16, 1953, 2316684, 5.88),
