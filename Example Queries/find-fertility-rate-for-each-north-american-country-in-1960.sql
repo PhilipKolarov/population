@@ -1,4 +1,4 @@
-SELECT  Countries.[Name] AS Country, CountriesByYear.[TFR] AS TotalFertilityRate
+SELECT Countries.[Name] AS Country, CountriesByYear.[TFR] AS TotalFertilityRate
 FROM Continents
 JOIN Countries ON Continents.Id = Countries.ContinentId
 JOIN CountriesByYear ON Countries.Id = CountriesByYear.CountryId
